@@ -53,3 +53,5 @@ You can refer about naruto in [THIS PAGE](https://naruto.fandom.com#gh-light-mod
 - [x] Incomplete 
 - [ ] \(not necessary) complete
 
+@KushalKumarCh
+
