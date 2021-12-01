@@ -47,3 +47,9 @@ You can refer about naruto in [THIS PAGE](https://naruto.fandom.com#gh-light-mod
 1. First list item
    - Second nested list item
      - second nested lst item
+       - Third nested list item
+         - Fourth nested list item
+- [ ] Complete
+- [x] Incomplete 
+- [ ] \(not necessary) complete
+
