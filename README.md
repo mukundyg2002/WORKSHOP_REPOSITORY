@@ -1,7 +1,22 @@
 # HEADING 1
 ## HEADING 2
-### HEADING 3
+### **HEADING 3**
 #### HEADING 4
 ##### HEADING 5
 ###### HEADING 6
-*italic font style baybayy!!*
+*italic font style!!*
+
+**BOLD FORMAT**
+
+***BOLD AND ITALIC***
+* FRUITS
+  * oranges
+  * fineaffle
+  * fafaya
+
+1. VEGETABLES
+    1. onions
+    2. carrots
+    3. chilli
+
+[Google](https://www.google.com)
